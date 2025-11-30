@@ -1,0 +1,99 @@
+1:"$Sreact.fragment"
+2:I[3719,["161","static/chunks/161-c92285856b08f5b4.js","874","static/chunks/874-196dbf0660d69360.js","560","static/chunks/560-83a075b4e219aa9a.js","177","static/chunks/app/layout-3014eee106d70814.js"],"ThemeProvider"]
+3:I[768,["161","static/chunks/161-c92285856b08f5b4.js","874","static/chunks/874-196dbf0660d69360.js","560","static/chunks/560-83a075b4e219aa9a.js","177","static/chunks/app/layout-3014eee106d70814.js"],"default"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+6:I[2548,["161","static/chunks/161-c92285856b08f5b4.js","874","static/chunks/874-196dbf0660d69360.js","560","static/chunks/560-83a075b4e219aa9a.js","177","static/chunks/app/layout-3014eee106d70814.js"],"default"]
+8:I[9665,[],"MetadataBoundary"]
+a:I[9665,[],"OutletBoundary"]
+d:I[4911,[],"AsyncMetadataOutlet"]
+f:I[9665,[],"ViewportBoundary"]
+11:I[6614,[],""]
+:HL["/_next/static/css/321086709c2a5342.css","style"]
+0:{"P":null,"b":"FFmk0JUx5TwbTU7wnPXXe","p":"","c":["","cv",""],"i":false,"f":[[["",{"children":[["slug","cv","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/321086709c2a5342.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/ai.png","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://google-fonts.jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://google-fonts.jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"style","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}],["$","link",null,{"rel":"stylesheet","id":"gfonts-css","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap","media":"print"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              (function(){\n                var l = document.getElementById('gfonts-css');\n                if (!l) return;\n                if (l.media !== 'all') {\n                  l.addEventListener('load', function(){ try { l.media = 'all'; } catch(e){} });\n                }\n              })();\n            "}}],["$","noscript",null,{"children":["$","link",null,{"rel":"stylesheet","href":"https://google-fonts.jialeliu.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"}]}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"children":[["$","$L3",null,{"items":[{"title":"About","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Teaching","type":"page","target":"teaching","href":"/teaching"},{"title":"Awards","type":"page","target":"awards","href":"/awards"},{"title":"Services","type":"page","target":"services","href":"/services"},{"title":"CV","type":"page","target":"cv","href":"/cv"}],"siteTitle":"Zhengrui Guo - Homepage","enableOnePageMode":false}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{"lastUpdated":"November 29, 2025"}]]}]}]]}]]}],{"children":[["slug","cv","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","NgsaLB0u_3x-txr861iKm",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[4911,[],"AsyncMetadata"]
+15:I[4059,["161","static/chunks/161-c92285856b08f5b4.js","12","static/chunks/12-4b59b9520356f054.js","748","static/chunks/748-f57d8ba8a8fdbf4b.js","182","static/chunks/app/%5Bslug%5D/page-4337659b3d2f5b24.js"],"default"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+16:T153a,## Education
+
+**Hong Kong University of Science and Technology**, Dept. CSE, *2022.08 - Present*
+- Program: PhD in Computer Science and Engineering
+- Research focus: Computational Pathology, Foundation Models, Vision-language Large Models for Healthcare
+- Supervisor: Prof. Hao Chen
+
+**Hong Kong University of Science and Technology**, Dept. CSE, *2021.08 - 2022.01*
+- Program: Internship for Research in Computational Pathology
+- Supervisor: Prof. Hao Chen
+
+**Harbin Institute of Technology (Weihai)**, School of Science, *2018.09 - 2022.06*
+- **Major:** BSc in Mathematics and Applied Mathematics | **GPA:** 3.84/4.0 | Ranked 2 / 120 | IELTS-7.5
+- **Awards:** National Scholarship (1/120) | National Second Prize, National English Competition for College Students
+
+## Research Interests
+- Pathology Foundation Models and Their Applications in Real-world Clinical Workflow
+- Multi-modal Language Models / Vision-language Models and Their Applications
+- Multi-modal Learning, especially Whole-slide Image and Genomics Fusion for Precision Oncology
+
+## Publications
+Research focused on foundation models and vision-language models/large language models, with publications as first/co-first author in top-tier AI/machine learning conferences (e.g., ICML, CVPR, ICLR) and journals (e.g. Nature subsidiary journals).
+
+### *Selected Publications (# denotes Equal Contribution)*
+
+- (Nature Biomedical Engineering) Ma, Jiabo#, **Guo, Zhengrui#**, et al. "Towards a generalizable pathology foundation model via unified knowledge distillation." Nature Biomedical Engineering, 2025.
+- (ICML 2025) **Guo, Zhengrui**, et al. "Context Matters: Query-aware Dynamic Long Sequence Modeling of Gigapixel Images." Forty-Second International Conference on Machine Learning. 2025.
+- (CVPR 2025) **Guo, Zhengrui**, et al. "FOCUS: Knowledge-enhanced adaptive visual compression for few-shot whole slide image classification." Proceedings of the Computer Vision and Pattern Recognition Conference. 2025.
+- (ICLR 2025) **Guo, Zhengrui**, et al. "BLEND: Behavior-guided Neural Population Dynamics Modeling via Privileged Knowledge Distillation." The Thirteenth International Conference on Learning Representations. 2025.
+- (TMI 2025) Che, Haoxuan#, Jin, Haibo#, **Guo, Zhengrui#**, et al. "LLM-driven Medical Report Generation via Communication-efficient Heterogeneous Federated Learning." IEEE Transactions on Medical Imaging. 2025.
+- (MICCAI 2024) **Guo, Zhengrui**, et al. "HistGen: Histopathology report generation via local-global feature encoding and crossmodal context interaction." International Conference on Medical Image Computing and Computer-Assisted Intervention. Cham: Springer Nature Switzerland, 2024.
+
+### Recent Works on ArXiv
+- (Multi-modal Learning) Sun, Qichen#, **Guo, Zhengrui#**, et al. "Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining." ArXiv. (2025).
+- (Improved LoRA for Few-shot Learning) Xiong, C., **Guo, Zhengrui**, et al. "Beyond Linearity: Squeeze-andRecalibrate Blocks for Few-Shot Whole Slide Image Classification." ArXiv. (2025).
+- (Benchmark for Medical Foundation Models) Ma, J., Xu, Y., Zhou, F., Wang, Y., Jin, C., **Guo, Zhengrui**, et al. "PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology." ArXiv. (2025).
+- (Survey on Medical Image Analysis) Jin, C.#, **Guo, Zhengrui#**, et al. "Label-efficient deep learning in medical image analysis: Challenges and future directions." ArXiv. (2023).
+
+## Research Experiences
+**Research Intern**
+Hong Kong University of Science and Technology
+*2021.08 - 2022.01*
+- **Research Direction:** Computational Pathology, Multi-instance Learning
+- Under the supervision of Prof. Hao Chen
+- **Research Outcomes:** Became familiar with pathology data (whole-slide images) and reproduced existing state-of-the-art multi-instance learning algorithms.
+
+**Undergraduate Research**
+Harbin Institute of Technology (Weihai)
+*2020.04 - 2020.10*
+- **Research Direction:** Applied Mathematics, Control Theory
+- Under the supervision of Prof. Wenxue Li and Dr. Yongbao Wu
+- **Research Outcomes:** Wu, Y., **Guo, Zhengrui**, et al. "Stabilization of complex networks under asynchronously intermittent event-triggered control." **Automatica 161 (2024): 111493.**
+
+**Undergraduate Research**
+Harbin Institute of Technology (Weihai)
+*2019.04 - 2019.10*
+- **Research Direction:** Applied Mathematics, Control Theory
+- Under the supervision of Prof. Wenxue Li and Dr. Yongbao Wu
+- **Research Outcomes:** Wu, Y., **Guo, Zhengrui**, et al. "Synchronisation of second‐order stochastic complex dynamical networks via intermittent pinning discrete observations control and their applications." **IET Control Theory & Applications 14.20 (2020): 3440-3450.**
+
+## Patents
+- Towards a Generalizable Pathology Foundation Model via Unified Knowledge Distillation, Application No. 63/771782, **US Provisional Patent**, In Progress
+
+## Service
+**Competition Organizer**
+- **MICCAI 2023: Myopic Maculopathy Analysis Challenge (MMAC)**
+- Qian, B., ..., **Guo, Zhengrui**, et al. "A competition for the diagnosis of myopic maculopathy by artificial intelligence algorithms." **JAMA ophthalmology 142.11 (2024): 1006-1015.**
+
+**Reviewer**
+- **NeurIPS 2025**, **ICLR 2026**
+
+## Skills
+
+- **Programming:** Python, MATLAB, LaTeX, PyTorch
+- **Data Analysis:** Pandas, NumPy, SciPy
+- **Languages:** Chinese (Native), English (Fluent)
+7:["$","div",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12","children":[false,["$","$L15",null,{"config":{"type":"text","title":"CV","source":"cv.md"},"content":"$16"}],false]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"CV | Zhengrui Guo - Homepage"}],["$","meta","1",{"name":"author","content":"David Guo 郭政睿"}],["$","meta","2",{"name":"keywords","content":"David Guo 郭政睿,PhD,Research,Hong Kong University of Science and Technology"}],["$","meta","3",{"name":"creator","content":"David Guo 郭政睿"}],["$","meta","4",{"name":"publisher","content":"David Guo 郭政睿"}],["$","meta","5",{"property":"og:title","content":"Zhengrui Guo - Homepage"}],["$","meta","6",{"property":"og:description","content":"PhD student at Hong Kong University of Science and Technology."}],["$","meta","7",{"property":"og:site_name","content":"David Guo 郭政睿's Academic Website"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary"}],["$","meta","11",{"name":"twitter:title","content":"Zhengrui Guo - Homepage"}],["$","meta","12",{"name":"twitter:description","content":"PhD student at Hong Kong University of Science and Technology."}],["$","link","13",{"rel":"icon","href":"/ai.png"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
